@@ -1,0 +1,6 @@
+framework module CXPodTools {
+  umbrella header "CXPodTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

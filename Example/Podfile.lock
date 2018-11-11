@@ -1,0 +1,16 @@
+PODS:
+  - CXPodTools (0.1.0)
+
+DEPENDENCIES:
+  - CXPodTools (from `../`)
+
+EXTERNAL SOURCES:
+  CXPodTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CXPodTools: f3869404168d1203337ef968daf6dcd091d65535
+
+PODFILE CHECKSUM: 3f4a5f02d6816a86083a1110812fffcecc8ceec1
+
+COCOAPODS: 1.5.3
